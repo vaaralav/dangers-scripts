@@ -1,5 +1,5 @@
 {
-  "name": "kcd-scripts",
+  "name": "dangers",
   "version": "0.0.0-semantically-released",
   "description": "CLI for common scripts for my projects",
   "engines": {
@@ -7,7 +7,7 @@
     "npm": ">= 5"
   },
   "bin": {
-    "kcd-scripts": "dist/index.js"
+    "dangers": "dist/index.js"
   },
   "scripts": {
     "add-contributor": "node src contributors add",
@@ -28,7 +28,7 @@
     "jest.js"
   ],
   "keywords": [],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Ville Vaarala <ville.l.vaarala@gmail.com> (http://vaaralav.com/)",
   "license": "MIT",
   "dependencies": {
     "all-contributors-cli": "^4.10.1",
@@ -91,12 +91,12 @@
   "eslintIgnore": ["node_modules", "coverage", "dist"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kentcdodds/kcd-scripts.git"
+    "url": "https://github.com/vaaralav/dangers.git"
   },
   "bugs": {
-    "url": "https://github.com/kentcdodds/kcd-scripts/issues"
+    "url": "https://github.com/vaaralav/dangers/issues"
   },
-  "homepage": "https://github.com/kentcdodds/kcd-scripts#readme",
+  "homepage": "https://github.com/vaaralav/dangers#readme",
   "devDependencies": {
     "jest-in-case": "^1.0.2",
     "slash": "^1.0.0"

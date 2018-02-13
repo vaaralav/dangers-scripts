@@ -1,6 +1,6 @@
 {
-  "projectName": "kcd-scripts",
-  "projectOwner": "kentcdodds",
+  "projectName": "dangers",
+  "projectOwner": "vaaralav",
   "files": [
     "README.md"
   ],
@@ -58,6 +58,16 @@
       "contributions": [
         "code",
         "test"
+      ]
+    },
+    {
+      "login": "vaaralav",
+      "name": "Ville Vaarala",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8571541?v=4",
+      "profile": "https://vaaralav.com",
+      "contributions": [
+        "doc",
+        "code"
       ]
     }
   ]
